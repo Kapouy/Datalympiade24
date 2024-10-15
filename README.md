@@ -1,5 +1,5 @@
 Regles de l'epreuve : 
- - Faire un maximum de point dans le temps impacti
+ - Faire un maximum de point dans le temps imparti
 
 Materiel : 
   - BDD.db => fichier de base de données contenant tables et données extraite des data officiels des JO Paris 2024 (https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games)
